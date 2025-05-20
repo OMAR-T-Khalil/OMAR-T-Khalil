@@ -15,7 +15,7 @@
 <h3 align="left">📄 Resume</h3>
 <p align="left">
   <a href="https://drive.google.com/file/d/1-FUgIevxYM9zgLD2tjkQ8Ia9JQiG07dw/view?usp=sharing" target="_blank">
-    <img src="YOUR_IMAGE_PATH_HERE" alt="Omar Tamer Khalil Resume Preview" width="400"/>
+    <img src="YOUR_IMAGE_PATH_HERE" alt="open" width="400"/>
   </a>
 </p>
 

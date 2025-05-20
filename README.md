@@ -10,8 +10,12 @@
   <a href="https://linkedin.com/in/omar-tamer-191798283" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
+</p>
+
+<h3 align="left">📄 Resume</h3>
+<p align="left">
   <a href="https://drive.google.com/file/d/1-FUgIevxYM9zgLD2tjkQ8Ia9JQiG07dw/view?usp=sharing" target="_blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/337/337946.png" alt="Resume" height="30" width="30" />
+    <img src="YOUR_IMAGE_PATH_HERE" alt="Omar Tamer Khalil Resume Preview" width="400"/>
   </a>
 </p>
 

@@ -15,7 +15,7 @@
 <h3 align="left">📄 Resume</h3>
 <p align="left">
   <a href="https://drive.google.com/file/d/1-FUgIevxYM9zgLD2tjkQ8Ia9JQiG07dw/view?usp=sharing" target="_blank">
-    <img src="YOUR_IMAGE_PATH_HERE" alt="open" width="400"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" alt="Resume PDF" width="40" height="40"/>
   </a>
 </p>
 

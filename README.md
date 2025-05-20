@@ -9,7 +9,12 @@
 <p align="left">
   <a href="https://linkedin.com/in/omar-tamer-191798283" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  
+  </a>
+
+  <!-- Add email icon and mailto link here -->
+  <a href="mailto:omartamer631477@gmail.com" target="_blank" style="margin-left: 10px;">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/561/561127.png" alt="Email" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">📄 Resume</h3>
@@ -18,4 +23,3 @@
     <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" alt="Resume PDF" width="40" height="40"/>
   </a>
 </p>
-

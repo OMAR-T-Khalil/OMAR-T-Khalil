@@ -4,6 +4,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/omar-tamer-191798283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omar-tamer-191798283" height="30" width="40" /></a>
+## 📄 Resume
+
+[My Resume](https://drive.google.com/file/d/1-FUgIevxYM9zgLD2tjkQ8Ia9JQiG07dw/view?usp=sharing)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
